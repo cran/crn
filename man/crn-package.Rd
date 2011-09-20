@@ -17,7 +17,7 @@
 \tabular{ll}{
 Package: \tab crn\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
+Version: \tab 1.1\cr
 License: \tab GPL (>=2)\cr
 LazyLoad: \tab yes\cr
 LazyData: \tab FALSE\cr

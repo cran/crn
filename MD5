@@ -1,4 +1,4 @@
-f6f450ae9c4d97920b68e1253ae970bc *DESCRIPTION
+ed230d918bb40a6d88ad680810e04c62 *DESCRIPTION
 df390c53434517b304ac5db487184641 *NAMESPACE
 4ff6d0a4692311b42a9df3e77e7a2fff *R/FileParameters.R
 ac25ff3dc9b92bcf824a008448f16044 *R/Urls.R
@@ -16,7 +16,7 @@ a54d903d2c48046a495d0d526eb60da4 *man/HOURS.Rd
 96cd24233afb1a83d69e9e2709a4988d *man/collateHourly.Rd
 04e9af4a6f84a26dbec8152c3d1897b1 *man/colnamesDaily.Rd
 dfc9ee1e7f83fe62265d31e52c0a6289 *man/colnamesHourly.Rd
-3ff73f1234d857677688e5066e4b19aa *man/crn-package.Rd
+6fdc62d808b87ead3ae298b8d875f270 *man/crn-package.Rd
 d915b4678e2f8aa03d467d2fdfba9b68 *man/downloadCRN.Rd
 203ea5330c5b3cb7535ec89e2b478366 *man/getUrlsCRN.Rd
 d7004b2f410aaa2bd18944a8fc61115d *man/writeDataset.Rd
